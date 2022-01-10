@@ -1,0 +1,27 @@
+body{
+    height: 100vh;
+  }
+.A{
+    text-align: center;
+}
+.content{
+    height: fit-content;
+}
+
+img{
+    width: 100%;
+}
+.icon{
+    font-size: 50px;
+}
+
+.font-p{
+    font-size:1.3rem;
+}
+.logo{
+    font-size: 50px;
+}
+
+.line{
+border-bottom: 3px solid rgb(255, 255, 255);
+}
